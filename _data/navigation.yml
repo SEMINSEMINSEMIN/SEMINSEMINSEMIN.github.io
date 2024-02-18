@@ -5,8 +5,8 @@ main:
   - title: "Frontend"
     chilren:
     - title: "HTML"
-      url: /Frontend/HTML/
+      url: /docs/Frontend/HTML/
     - title: "CSS"
-      url: /Frontend/CSS/
+      url: /docs/Frontend/CSS/
     - title: "JavaScript"
-      url: /Frontend/JavaScript/
+      url: /docs/Frontend/JavaScript/
